@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\Herocat\Desktop\course\Project\同化棋—计概大作业\同化棋—源代码\源.cpp(59,19): warning C4101: “ChooseSave”: 未引用的局部变量
+  同化棋.vcxproj -> C:\Users\Herocat\Desktop\course\Project\同化棋—计概大作业\同化棋—源代码\Debug\同化棋.exe
